@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Optional: common Python build files
+*.egg-info/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
