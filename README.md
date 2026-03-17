@@ -8,3 +8,6 @@
 
 ### 2026-03-16
 > Having something is not always better than not having it. - Beth Kempton
+
+### 2026-03-17
+> When you compete, you gain more than you lose, even when you lose. - Aaron Lauritsen
