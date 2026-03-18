@@ -11,3 +11,6 @@
 
 ### 2026-03-17
 > When you compete, you gain more than you lose, even when you lose. - Aaron Lauritsen
+
+### 2026-03-18
+> It’s dangerous to be grateful for the cage that traps you. - Beth Kempton
