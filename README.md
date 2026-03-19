@@ -14,3 +14,6 @@
 
 ### 2026-03-18
 > It’s dangerous to be grateful for the cage that traps you. - Beth Kempton
+
+### 2026-03-19
+> Don't dwell too long on the past, forgive and let it go. Too many hours have been wasted on old regrets and sorrow. - Atalina Wright
