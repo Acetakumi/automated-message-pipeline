@@ -17,3 +17,6 @@
 
 ### 2026-03-19
 > Don't dwell too long on the past, forgive and let it go. Too many hours have been wasted on old regrets and sorrow. - Atalina Wright
+
+### 2026-03-20
+> Wonder is all around us, when we know how to look. It's often in the simple spaces; a meadow, a stream, an unturned rock. - Atalina Wright
