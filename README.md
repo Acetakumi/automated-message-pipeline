@@ -23,3 +23,6 @@
 
 ### 2026-03-21
 > Love cannot be contained, love is destined to transcend and change. - Atalina Wright
+
+### 2026-03-22
+> We only have one life and two choices: sadness and regret for a past we cannot change or happiness for every moment we can choose how to live. - Marino Baccarini
