@@ -26,3 +26,6 @@
 
 ### 2026-03-22
 > We only have one life and two choices: sadness and regret for a past we cannot change or happiness for every moment we can choose how to live. - Marino Baccarini
+
+### 2026-03-23
+> You played my heart as it was meant to be played, a little, then all at once. - Atalina Wright
