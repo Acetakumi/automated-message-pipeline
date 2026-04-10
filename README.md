@@ -80,3 +80,6 @@
 
 ### 2026-04-09
 > I embrace every day as an opportunity to live fully and with total heart! - Amy Leigh Mercree
+
+### 2026-04-10
+> Every day could be your last, so share your love far and wide with everyone you adore. - Amy Leigh Mercree
