@@ -89,3 +89,6 @@
 
 ### 2026-04-12
 > Nature offers splendor and artistry for us to appreciate. Opening our senses reveals we are surrounded by magnificence. - Amy Leigh Mercree
+
+### 2026-04-13
+> Extraordinary wonder and joy are woven through ordinary life. Hunt for them relentlessly. - Amy Leigh Mercree
