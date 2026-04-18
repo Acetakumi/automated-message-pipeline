@@ -104,3 +104,6 @@
 
 ### 2026-04-17
 > Unleash the force of bliss within you. Radiate your joy no matter what! - Amy Leigh Mercree
+
+### 2026-04-18
+> It is imperative you stay in touch with your inner self so you don’t lose the essence of who you truly are. - Omoakhuana Anthonia
